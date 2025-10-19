@@ -1,0 +1,8 @@
+/* Tailwind via CDN - no installation needed */
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@3.3.3/dist/tailwind.min.css');
+
+body {
+  font-family: sans-serif;
+  background-color: #f9fafb;
+  color: #111827;
+}
