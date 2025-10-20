@@ -9,7 +9,7 @@ A lightweight tracker to monitor AI search engine visibility (ChatGPT, Claude, G
 **Vercel URL:** [https://ai-search-visibility-tracker-59wgcdc5u.vercel.app](https://ai-search-visibility-tracker-59wgcdc5u.vercel.app)
 
 **Test Credentials:**
-- Username: `testuser@example.com`
+- Username: `poornipoornima7676@gmail.com`
 - Password: `TestPassword123`
 
 ---
